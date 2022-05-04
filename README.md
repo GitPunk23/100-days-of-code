@@ -14,7 +14,7 @@ All of my progress will be documented within logs, which you can find in the fol
 
 Thank you for checking out my journey!
 <a name="r1"></a>
-## Round 1: May 1, 2022 - August 8, 2022
+## Round 1: May 4, 2022 - August 11, 2022
 
 <a name="goals1"></a> 
 ### Goals
@@ -24,7 +24,8 @@ Thank you for checking out my journey!
     * Python
 * Skills
     * Continuous Integration/Continous Deployment
+    * Automation
     * Data Structures and Algorithms
 <a name="log1"></a>     
 ### Link to Log
-[Round 1: May 1, 2022 - August 8, 2022](logs/R1.md)
+[Round 1: May 4, 2022 - August 11, 2022](logs/R1.md)
