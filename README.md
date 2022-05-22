@@ -33,6 +33,5 @@ Thank you for checking out my journey!
 
 <a name="milestones1"></a>
 ### Milestones
-[Day 2](logs/R1.md#day-2---may-5-2022): Codecademy Javascript course completed
-
-[Day 17](logs/R1.md#day-17---may-20-2022): [Update100 Scripts](https://github.com/NeonStar-Dev/update100)
+* [Day 2](logs/R1.md#day-2---may-5-2022): Codecademy Javascript course completed
+* [Day 17](logs/R1.md#day-17---may-20-2022): [Update100 Scripts](https://github.com/NeonStar-Dev/update100)
